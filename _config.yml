@@ -1,0 +1,14 @@
+title: ToF Guide and Resources
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+color_scheme: dark
+
+plugins:
+  - jekyll-seo-tag
+
+aux_links:
+  "Source":
+    - "https://github.com/NatsumeLS/ToF-Guide-Resources"
+
+back_to_top: true
+back_to_top_text: "Back to top"
