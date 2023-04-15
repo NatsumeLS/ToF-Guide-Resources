@@ -9,6 +9,8 @@ permalink: /resources/icons/roles/
 
 ## Role Icons
 
+[Download](images/roles.zip)
+
 ### Original
 
 ![Fortitude](images/Fortitude.png){: width="128" }

@@ -9,6 +9,8 @@ permalink: /resources/icons/elements/
 
 ## Element Icons
 
+[Download](images/elements.zip)
+
 ### Original
 
 ![Altered](images/Altered.png){: width="128" }
