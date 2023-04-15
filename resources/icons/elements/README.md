@@ -27,4 +27,4 @@ permalink: /resources/icons/elements/
 ![Physical Refined](images/Physical_R.png){: width="128" }
 ![Volt Refined](images/Volt_R.png){: width="128" }
 
-by NxhardcorE
+- !Nx#0911
