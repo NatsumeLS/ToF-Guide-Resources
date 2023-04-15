@@ -7,3 +7,8 @@ has_children: true
 has_toc: false
 permalink: /resources/icons/
 ---
+
+## Icons
+
+- [**Roles**](roles)
+- [**Elements**](elements)

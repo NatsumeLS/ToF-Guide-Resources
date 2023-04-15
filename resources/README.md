@@ -6,3 +6,7 @@ has_children: true
 has_toc: false
 permalink: /resources/
 ---
+
+## Resources
+
+- [**Icons**](icons)
